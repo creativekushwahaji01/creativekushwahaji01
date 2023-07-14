@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 🤝 I’m looking for help with **assistcall**
-
 - 👨‍💻 All of my projects are available at [https://creativekushwahaji01.github.io/](https://creativekushwahaji01.github.io/)
-
-- 💬 Ask me about **Web Depolopment and new technology**
 
 - 📫 How to reach me **kingkushwaha93@gmail.com**
 
