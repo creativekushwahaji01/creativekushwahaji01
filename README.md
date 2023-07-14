@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @creativekushwahaji01
+- 👋 Hi, I’m Dilip Kushwaha
 - 👀 I’m interested in learning new tech stuff
 - 🌱 I’m currently learning front end devolopment
 - 💞️ I’m looking to collaborate on FASTN 
