@@ -36,5 +36,4 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
 <a href="https://termux.dev/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" alt="Termux" width="50" height="50"/></a></p>
-</a> <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter&" alt="tech-hunter" /></p>
 
