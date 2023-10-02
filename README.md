@@ -39,4 +39,3 @@
 </a> <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter&" alt="tech-hunter" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-hunter&show_icons=true&locale=en&layout=compact" alt="tech-hunter" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-hunter&" alt="tech-hunter" /></p>
