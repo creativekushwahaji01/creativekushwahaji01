@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3 Technologies**
 
-- 👨‍💻 All of my projects are available at [https://creativekushwahaji.vercel.app/](https://creativekushwahaji.vercel.app/)
+- 👨‍💻 All of my projects are available at [ my Portfolio](https://creativekushwahaji.vercel.app/)
 
 - 📫 How to reach me **kingkushwaha93@gmail.com**
 
