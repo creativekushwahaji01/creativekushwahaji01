@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Web3 Technologies**
 
-- 👨‍💻 All of my projects are available at [https://creativekushwahaji01.github.io/](https://creativekushwahaji01.github.io/)
+- 👨‍💻 All of my projects are available at [https://creativekushwahaji.vercel.app/](https://creativekushwahaji.vercel.app/)
 
 - 📫 How to reach me **kingkushwaha93@gmail.com**
-
-- 📄 Know about my experiences [https://creativekushwahaji01.github.io/mycv.github.io/](https://creativekushwahaji01.github.io/mycv.github.io/)
 
 - ⚡ Fun fact **I am totally introvert**
 
