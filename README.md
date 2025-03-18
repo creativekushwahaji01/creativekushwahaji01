@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<a href="https://creativekushwahaji01.github.io/startup_ayush/" target="_blank" rel="noreferrer"> Startup Ayush </a> **
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **Web3 Technologies**
 
 - 👨‍💻 All of my projects are available at [https://creativekushwahaji01.github.io/](https://creativekushwahaji01.github.io/)
 
