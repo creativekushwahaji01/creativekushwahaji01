@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahakalsons" target="blank"><img src="https://img.shields.io/twitter/follow/mahakalsons?logo=twitter&style=for-the-badge" alt="mahakalsons" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://creativekushwahaji01.github.io/startup_ayush/" target="_blank" rel="noreferrer"> Startup Ayush </a> **
+- 🔭 I’m currently working on **<a href="https://creativekushwahaji01.github.io/connectedly/" target="_blank" rel="noreferrer"> Connectedly </a> **
 
 - 🌱 I’m currently learning **Web3 Technologies**
 
